@@ -33,4 +33,4 @@ print(geotime.encode([38.9072, -77.0369],1514764800,60,42)
 ```
 
 ## Contact
-[Mike](mail:mroumanos@protonmail.com)
+[Mike](mailto:mroumanos@protonmail.com)

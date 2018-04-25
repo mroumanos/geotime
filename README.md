@@ -17,7 +17,6 @@ The purpose of this library is to create space+time boxes instead of just space 
 ## Usage
 ```
 import geotime
-import time
 
 # create an object
 my_geotime = geotime.geotime()
